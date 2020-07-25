@@ -1,7 +1,7 @@
 ---
 title: My first post
 author: Jhohan Palpa
-date: 2019-07-18
+date: 2020-07-21
 hero: ./images/palpa.png
 excerpt: Bienvenidos a mi pagina
 ---

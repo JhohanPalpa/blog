@@ -1,7 +1,7 @@
 ---
 title: Configuracion de GitHub usando SHH
 author: Jhohan Palpa
-date: 2019-07-18
+date: 2020-07-21
 hero: ./images/post.png
 excerpt: Bienvenidos a mi pagina
 ---

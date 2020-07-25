@@ -1,13 +1,11 @@
 name: Jhohan Palpa
 bio: |
-  Hola, mi nombre es Jhohan Palpa, tengo 21 años y empeze con la carrera Desarrollo de Sistemas de la Informacion en el año 2017.
-  Mis pasatiempos son escuchar musica, hacer ejercicio, ver series.
-  Escribo este blog para compartir mi aprendizaje en comvertirme en un excelente desarrollador.
-avatar: ./avatars/dennis-brotzky.jpg
+  Hola, mi nombre es Jhohan Palpa, soy un programador web y de aplicaciones Android.
+avatar: ./avatars/jp3.png
 social:
-  - url: https://unsplash.com
-  - url: https://stackoverflow.com
-  - url: https://github.com
-  - url: https://github.com
-  - url: https://github.com
+  - url: https://github.com/JhohanPalpa
+  - url: https://twitter.com/GersonJhohan?s=09
+  - url: https://www.instagram.com/jhohangersonpalpa/
+  - url: https://www.linkedin.com/in/jhohan-palpa-b364b91b3/
 featured: true
+
